@@ -1,0 +1,104 @@
+/*Başlık Özellikleri*/
+.header {
+    margin: 0px 100px 20px 100px;
+    background-color: #4242e6;
+    padding: 0px;
+    text-align: center;
+    font-family: Arial Black;
+    text-align: left;
+    color: #a4a4fe;
+  
+}
+/*Body'nin siyah çerçevesi*/
+.body {
+    background-color: black;
+    margin: 20px 200px 150px 200px;
+    
+}
+
+/*Üst navigasyon menüsünün özellikleri*/
+.topnav {
+    overflow: hidden;
+    background-color: #4242e6;
+    margin: 0px 100px 20px 100px;
+    
+}
+
+/*Üst navigasyon menüsünün buton ayarlamaları */
+.topnav a {
+    
+    float: left;
+    display: block;
+    color: #a4a4fe;
+    text-align: center;
+    padding: 14px 16px;
+    
+    font-family: Arial;
+    
+}
+
+/* İmleç menü butonlarının üzerinde gezerken renk değişimi */
+.topnav a:hover {
+    background-color: #a4a4fe;
+    color: #4242e6;
+}
+/*İçeriklerin hizalanması*/
+.icerik {
+    margin: 20px 100px 20px 100px;
+    background-color: #4242e6;
+    padding: 50px 100px 100px 20px;
+    text-align: center;
+    font-family: Arial;
+    text-align: left;
+    color: #a4a4fe;
+    font-size: 20px;
+    
+}
+/*Şimdilik kalsın burda
+.icerik img {
+    float: left;
+    margin: 0 15px 0 0;
+}*/
+
+
+/*Alt kısım düzenlemeleri*/
+.footer {
+    margin: 0px 100px 0px 100px;
+    background-color: #4242e6;
+    padding: 0px;
+    text-align: center;
+    font-family: Arial Black;
+    text-align: left;
+    color: #a4a4fe;
+    font-size: 20px;
+    background-image: url("../img/c64bg.png");
+    background-repeat: no-repeat;
+}
+
+.src{
+    margin: 20px 100px 20px 100px;
+    background-color: #4242e6;
+    padding: 10px 100px 100px 50px;
+    text-align: center;
+    font-family: Arial;
+    text-align: left;
+    color: #a4a4fe;
+    font-size: 17px;
+
+}
+.src blockquote,h1{
+    text-decoration: underline;
+    color:whitesmoke;
+    
+}
+
+
+
+
+
+.arkaplan{
+    background-color: #a4a4fe;
+    margin:0px 0px 0px 0px;
+    
+}
+
